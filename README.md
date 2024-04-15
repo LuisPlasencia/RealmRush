@@ -1,6 +1,6 @@
 # RealmRush
 Unity 3.1.2 Tower Defense Game <br>
-- A star Pathfinding. <br>
+- A* Pathfinding. <br>
 - Click to plant towers on tiles (costs gold) 
 
 Playable builds: https://drive.google.com/drive/folders/1N9F9hCjV1S8D5pCjGvn9-KilET7XPQYR?usp=sharing
